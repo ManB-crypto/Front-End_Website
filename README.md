@@ -12,3 +12,9 @@ All Front-End design that I have previously completed
 
 ## Object Module 
 Page![Picture5](https://user-images.githubusercontent.com/80488842/175994005-6e762c9e-9be6-4e23-89bc-8e0f7e9eadd7.png)
+
+
+### Website Designs for Concert Event
+
+## Home Page with Spotify audio
+![Screenshot 2022-06-27 220515](https://user-images.githubusercontent.com/80488842/175996488-a772af2f-54d0-496a-bf78-ab55a553f4f7.png)
