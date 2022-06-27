@@ -18,3 +18,10 @@ Page![Picture5](https://user-images.githubusercontent.com/80488842/175994005-6e7
 
 ## Home Page with Spotify audio
 ![Screenshot 2022-06-27 220515](https://user-images.githubusercontent.com/80488842/175996488-a772af2f-54d0-496a-bf78-ab55a553f4f7.png)
+
+## Music Video Page
+
+![Screenshot 2022-06-27 175918](https://user-images.githubusercontent.com/80488842/176000954-c7601c8e-a211-4c77-9cc1-51be486696e0.png)
+
+## Ticket Page
+![Screenshot 2022-06-27 220539](https://user-images.githubusercontent.com/80488842/176004100-5a619333-3294-4d26-8a40-d89b7e191ae2.png)
